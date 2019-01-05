@@ -16,10 +16,10 @@ skills: 1
 Independent one-sample t-test
 
 `@instructions`
-
+Instructions
 
 `@hint`
-
+Hint
 
 `@pre_exercise_code`
 ```{r}
@@ -41,7 +41,7 @@ round(stat.desc(losbanosusd),2)
 
 `@solution`
 ```{r}
-
+Solution
 ```
 
 `@sct`
